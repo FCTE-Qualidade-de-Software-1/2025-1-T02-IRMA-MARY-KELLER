@@ -1,0 +1,28 @@
+site_name: DOCUMENTAÇÃO - QUALIDADE DE SOFTWARE
+repo_url: https://github.com/FCTE-Qualidade-de-Software-1/2025-1-T02-IRMA-MARY-KELLER
+
+nav: 
+  - Home: index.md
+
+theme: 
+  name: material
+  font:
+    text: IBM Plex Serif
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - content.code.copy
+  palette: 
+    - scheme: light
+      primary: custom
+      toggle:
+        icon: material/weather-night
+        name: Trocar para modo escuro
+
+    - scheme: slate
+      primary: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Trocar para modo claro
+icon:
+  repo: fontawesome/brands/git-alt
