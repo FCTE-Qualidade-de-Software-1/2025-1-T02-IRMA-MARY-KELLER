@@ -1,0 +1,23 @@
+-----membros-----
+
+-222021924 - Víctor Hugo Lima Schmidt
+
+-221007902 - Bruno Bragança dos Reis
+
+-222006178 - Thales Henrique E. dos Santos
+
+-202015868 - Alexandre Lema Xavier Júnior
+
+-211039671 - Pedro Lopes da Cunha
+
+-180116746 - Arthur Heleno do Couto da Silva
+
+
+
+-----duvida-----
+
+1. o que pode comprometer a eficácia da fase da interpretação em um programa de medição
+
+2. que tipo há entre a equipe GQM com a equipe de desenvolvimento? Como isso funciona na prática?
+
+3. a equipe de GQM é responsável por identificar o processo que precisa de melhoria. Ela precisa fazer parte da empresa ou não?
