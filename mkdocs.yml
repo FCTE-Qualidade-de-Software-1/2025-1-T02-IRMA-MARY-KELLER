@@ -3,6 +3,7 @@ repo_url: https://github.com/FCTE-Qualidade-de-Software-1/2025-1-T02-IRMA-MARY-K
 
 nav: 
   - Home: index.md
+  - Atividades: atividades/atividades.md
 
 theme: 
   name: material
